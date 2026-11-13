@@ -1,5 +1,5 @@
 def main():
-    print("Hello from uv-git-test-one!")
+    print("Hi there... from uv-git-test-one!")
 
 
 if __name__ == "__main__":
